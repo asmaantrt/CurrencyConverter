@@ -1,0 +1,55 @@
+
+
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="currency_converter">Currency Converter</string>
+  <string name="from">From</string>
+  <string name="select_country">Select Country</string>
+  <string name="select_currency">Select Currency</string>
+  <string name="to">To</string>
+    <string name="amount">Amount</string>
+  <string name="Amount">amount</string>
+  <string name="result">Result</string>
+  <string name="converted_amount">Converted Amount</string>
+
+  <string-array name="Currency">
+
+      <item>USD</item>
+      <item>EUR</item>
+      <item>TRY</item>
+      <item>AUD</item>
+      <item>CAD</item>
+
+      <item>BHD</item>
+      <item>DZD</item>
+      <item>SYP</item>
+      <item>SDG</item>
+      <item>IQD</item>
+      <item>KWD</item>
+      <item>MAD</item>
+      <item>SAR</item>
+
+
+      <item>SEK</item>
+      <item>GBP</item>
+      <item>AED</item>
+      <item>AFA</item>
+      <item>ALL</item>
+      <item>ANG</item>
+      <item>AED</item>
+      <item>AOA</item>
+      <item>ARS</item>
+
+      <item>AWG</item>
+      <item>AZN</item>
+      <item>BAM</item>
+      <item>BBD</item>
+      <item>BDT</item>
+      <item>BEF</item>
+      <item>AWG</item>
+      <item>AWG</item>
+      <item>AWG</item>
+
+  </string-array>
+
+</resources>
